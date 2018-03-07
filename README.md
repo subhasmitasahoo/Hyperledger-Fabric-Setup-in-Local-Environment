@@ -1,4 +1,3 @@
-<h3>Create a sample project using hyperledger Fabric in local</h3>
 <h2> Prerequisites for Installing Hyperledger Frameworks</h2>
 <ul>
   <li>cURL</li> 
