@@ -1,7 +1,5 @@
 # How to setup Hyperledger Fabric in local
 
-<h1>A sample application using hyperledger fabric</h1>
-
 <h2> Prerequisites for Installing Hyperledger Frameworks</h2>
 <ul>
   <li>cURL</li> 
