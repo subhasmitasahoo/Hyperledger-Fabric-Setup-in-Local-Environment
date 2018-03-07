@@ -2,8 +2,6 @@
 
 <h1>A sample application using hyperledger fabric</h1>
 
-<p>This is a sample app created using tuna-app code structure as the basic framework</p>
-
 <h2> Prerequisites for Installing Hyperledger Frameworks</h2>
 <ul>
   <li>cURL</li> 
